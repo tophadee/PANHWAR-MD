@@ -40,7 +40,7 @@ title: 'PANHWAR MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/ANSAR-PANHWAR/PANHWAR-MD" ,
-thumbnailUrl: "https://i.imgur.com/UfzyhWN.jpeg" ,
+thumbnailUrl: "https://qu.ax/QjmEp.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
