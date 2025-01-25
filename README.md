@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="">
-    <img alt=Support height="170" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
-    
+---
+
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+
 ---
     
-> **`Updated To` The Version 4.0**
+> **`Updated To` The Version 2.0**
 ---
 
 ```
