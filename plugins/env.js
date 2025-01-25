@@ -65,7 +65,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Send an audio file
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a' }, // Audio URL
+            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/repo.m4a' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
