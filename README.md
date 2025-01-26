@@ -1,6 +1,6 @@
 ---
 
-<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+<a><img src='https://qu.ax/zjSsa.jpg'/></a>
 
 ---
     
@@ -51,7 +51,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 ---
 
-<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+<a><img src='https://qu.ax/zjSsa.jpg'/></a>
 
 
 ---
