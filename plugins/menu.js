@@ -8,7 +8,7 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "⚡",
+    react: "💙",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -45,7 +45,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/hGpcx.jpg` },
+                image: { url: `https://qu.ax/zjSsa.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -63,7 +63,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/ANSAR-PANHWAR/PANHWAR-DATA/raw/refs/heads/main/autovoice/ansar.m4a' },
+            audio: { url: 'https://github.com/ANSAR-PANHWAR/PANHWAR-DATA/raw/refs/heads/main/autovoice/panhwar.m4a' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
