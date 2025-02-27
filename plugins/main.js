@@ -5,10 +5,10 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "menu2",
-    alias: "allmenu",
-    desc: "menu the bot",
-    category: "menu",
+    pattern: "menux",
+    alias: "allmenux",
+    desc: "menux the bot",
+    category: "menux",
     react: "⚡",
     filename: __filename
 }, 
