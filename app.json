@@ -1,7 +1,7 @@
 {
   "name": "PANHWAR-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴀɴʜᴡᴀʀ ᴍᴅ",
-  "logo": "https://qu.ax/zjSsa.jpg",
+  "logo": "https://i.imghippo.com/files/Heb9902bbM.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://qu.ax/zjSsa.jpg"
+      "value": "https://i.imghippo.com/files/Heb9902bbM.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -136,7 +136,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ*"
+      "value": "*`𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐀𝐍𝐒𝐀𝐑-𝐏𝐀𝐍𝐇𝐖𝐀𝐑`*"
     }
 
 
