@@ -19,7 +19,7 @@ let repo =`
 *|* *https://github.com/ANSAR-PANHWAR/PANHWAR-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029Vb5q797K0IBn4SW2hO2R*
 *╰──────────────●●►*
 
 > *PANHWAR-MD*
@@ -31,8 +31,8 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363321103874131@newsletter',
-      newsletterName: "ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
+      newsletterJid: '120363380724912615@newsletter',
+      newsletterName: "⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐",
       serverMessageId: 144
     },
 externalAdReply: { 
@@ -40,7 +40,7 @@ title: 'PANHWAR MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/ANSAR-PANHWAR/PANHWAR-MD" ,
-thumbnailUrl: "https://qu.ax/QjmEp.jpg" ,
+thumbnailUrl: "https://i.imghippo.com/files/Heb9902bbM.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
