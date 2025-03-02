@@ -14,7 +14,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const startTime = Date.now();
 
         // Add a short delay
-        await new Promise(resolve => setTimeout(resolve, 100)); // 100ms delay
+        await new Promise(resolve => setTimeout(resolve, 2)); // 3ms delay
 
         const endTime = Date.now();
         const ping = endTime - startTime;
@@ -27,8 +27,8 @@ async (conn, mek, m, { from, quoted, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321103874131@newsletter',
-                    newsletterName: '𝐀𝐧𝐬𝐚𝐫 𝐏𝐚𝐧𝐡𝐰𝐚𝐫',
+                    newsletterJid: '120363380724912615@newsletter',
+                    newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                     serverMessageId: 143
                 }
             }
