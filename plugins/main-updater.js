@@ -35,7 +35,7 @@ cmd({
     }
 
     if (latestCommitHash === currentHash) {
-      return reply("```✅ Your KHAN-MD bot is already up-to-date!```");
+      return reply("```✅ Your PANHWAR-MD bot is already up-to-date!```");
     }
 
     await reply("```PANHWAR-MD Bot Updating...🚀```");
