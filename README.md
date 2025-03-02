@@ -1,6 +1,6 @@
 ---
 
-<a><img src='https://qu.ax/zjSsa.jpg'/></a>
+<a><img src='https://i.imghippo.com/files/Heb9902bbM.jpg'/></a>
 
 ---
     
@@ -10,10 +10,6 @@
 ```
 PANHWAR-MD BY ANSAR-PANHWAR 👑
 ```
----
-
-<a><img src='https://i.imghippo.com/files/Heb9902bbM.jpg'/></a>
-
 ---
 
 
@@ -92,19 +88,3 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 ---
 
-<a><img src='https://qu.ax/zjSsa.jpg'/></a>
-
-
----
-
-
-
-
----
-
-
-<a><img src='https://qu.ax/usgBJ.jpg'/></a>
-
-
-
----
