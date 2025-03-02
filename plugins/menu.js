@@ -45,15 +45,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/zjSsa.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -115,15 +115,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/GBSxz.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -190,15 +190,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/ttRck.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -246,15 +246,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/sSuRH.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -302,15 +302,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/ckrBb.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -353,15 +353,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/hGpcx.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -412,15 +412,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/ffEhL.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -461,15 +461,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/NoLki.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -514,15 +514,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/zyzHa.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
@@ -564,15 +564,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/mkKhq.jpg` },
+                image: { url: `https://i.imghippo.com/files/Heb9902bbM.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: 'اَنصـــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜـارَ پنـہــٜـٜـٜـٜـٜ۬ـٰٜ۬ـٰٰٜ۬ـٰٜ۬ـٜ۬ـٜـٜـٜوَرَ',
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐',
                         serverMessageId: 143
                     }
                 }
