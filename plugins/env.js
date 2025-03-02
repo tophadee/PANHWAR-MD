@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *PANHWAR-MD* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -47,15 +47,15 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.imgur.com/UfzyhWN.jpeg' }, // Image URL
+                image: { url: 'https://i.imghippo.com/files/Heb9902bbM.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: "ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
+                        newsletterJid: '120363380724912615@newsletter',
+                        newsletterName: "⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐",
                         serverMessageId: 143
                     }
                 }
