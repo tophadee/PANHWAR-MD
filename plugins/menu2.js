@@ -72,7 +72,7 @@ cmd({
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
-          'title': "SILENT-SOBX-MD",
+          'title': "⏤͟͟͞͞★͙≛͙⃝͙𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃♥᭄ ࿐",
           'body': '' + _0x307f4f,
           'mediaType': 0x1,
           'sourceUrl': "https://whatsapp.com/channel/0029Vb5q797K0IBn4SW2hO2R",
